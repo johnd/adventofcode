@@ -1,0 +1,1 @@
+I am making a half-arsed attempt to complete this year's [Advent of Code](https://adventofcode.com/2019) and recording my attempts in this repo so that I can hinder my future attempts to obtain gainful employment in the software development industry.
